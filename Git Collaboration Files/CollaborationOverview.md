@@ -1,5 +1,14 @@
 # Git Collaboration Overview
 
-## What is in this tutorial?
+### What is in this tutorial?
 
-The Git Collaboration Overview touches on topics involving Git, Github, and working with other people on a single project.
+The Git Collaboration Overview folder houses tutorials on how to use Github and Git with other collaborators on a particular project. Topics covered include:
+
+  - Adding a collaborator
+    - Forking vs. cloning
+      - Pull requests
+        - Merges and solving merge conflicts
+
+	# Links to Tutorials
+
+	  - [Adding a Collaborator](/AddingCollaborator.md)
