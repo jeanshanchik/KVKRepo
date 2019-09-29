@@ -1,4 +1,4 @@
-# Forking vs. Cloning
+# Forking vs. Cloning Overview
 
 Forking and cloning in Github are often confused, as the differences are small but significant with respects to project collaboration. In this tutorial, you will learn the difference between them, how to execute a fork or a clone, and in which situations you should use them
 
@@ -17,10 +17,19 @@ Essentialy, a fork is a **copy** of a repository, and it allows you or your coll
 
 2. Click on the upper right-hand button that says **"Fork"** and has a little picture of a diverging line.
 
-3. Your fork has been created. You will know you're in your fork when your link looks like this:
+3. Your fork has been created. You will know you're in your fork when your repository name looks like this:
 
-```github.com/jeanshanchik/KVKRepo```
+```jeanshanchik/KVKRepo```
 
 And underneath it, it says:
 
 ```forked from username/KVKrepo```
+
+Congratulations! You've just forked a repository and can now start making changes to it. 
+
+
+# Cloning Explained
+
+Cloning is related and sometimes intertwined with forking, however they are not interchangeable. A clone is a copy of the repository onto your local machine/directory. Any changes you make to it will be on your local machine, as it is a completely separate instance of the project. If you want to make a change, you have to push what you've done to the repository. 
+
+For example, if you wanted to make changes to an existing repository, you would want to fork it first to make your own copy of the project, and then clone it onto your local machine to start the changes. You would then push your changes to your forked version of the project upstream, and then submit a pull request of said changes to the project-owner. 
