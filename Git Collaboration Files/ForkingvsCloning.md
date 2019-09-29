@@ -13,6 +13,14 @@ Essentialy, a fork is a **copy** of a repository, and it allows you or your coll
 
 ### Steps
 
-1. Click on the link to the original repository
+1. Click on the link to the original repository.
 
-2. Click on the 
+2. Click on the upper right-hand button that says **"Fork"** and has a little picture of a diverging line.
+
+3. Your fork has been created. You will know you're in your fork when your link looks like this:
+
+```github.com/jeanshanchik/KVKRepo```
+
+And underneath it, it says:
+
+```forked from username/KVKrepo```
