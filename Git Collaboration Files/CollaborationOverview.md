@@ -11,6 +11,8 @@ The Git Collaboration Overview folder houses tutorials on how to use Github and 
 
 # Links to Tutorials
 
-- [Adding a Collaborator](/AddingCollaborator.md)
+- [Adding a Collaborator](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/AddingCollaborator.md)
 - [Forking vs. Cloning](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/ForkingvsCloning.md)
+- [Pull Requests](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/PullRequests.md)
+- [Merges & Merge Conflicts](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/MergeConflicts.md)
 
