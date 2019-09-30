@@ -58,4 +58,6 @@ For example, if you wanted to make changes to an existing repository, you would 
 
   Replacing my link above, of course, with the link you've copied.
 
-6. 
+6. Once the clone has been made, you can go ahead and do ```cd KVKRepo``` replacing my repository name with the one you cloned.
+
+7. Your command line should show which folder you're in, and which repository branch you are on. In this case, it should say **"master"**.
