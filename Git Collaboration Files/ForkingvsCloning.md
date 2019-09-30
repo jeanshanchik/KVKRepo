@@ -33,3 +33,31 @@ Congratulations! You've just forked a repository and can now start making change
 Cloning is related and sometimes intertwined with forking, however they are not interchangeable. A clone is a copy of the repository onto your local machine/directory. Any changes you make to it will be on your local machine, as it is a completely separate instance of the project. If you want to make a change, you have to push what you've done to the repository. 
 
 For example, if you wanted to make changes to an existing repository, you would want to fork it first to make your own copy of the project, and then clone it onto your local machine to start the changes. You would then push your changes to your forked version of the project upstream, and then submit a pull request of said changes to the project-owner. 
+
+## How do you clone a repository?
+
+### Steps
+
+1. You will want to navigate to a location on your local machine where the clone will be placed. Have that directory off-hand.
+
+2. Open your git command line (git bash or your docker terminal), and change directories to where you want to place the clone:
+
+```git cd /c/Users/kelley/IS601```
+
+```pwd```
+
+This is to ensure you are in the correct folder before cloning.
+
+1. Navigate to the original repository whose code you want to work on, just as we did when we forked it.
+
+2. Look for the green button all the way to the right that says **"Clone or download"** and click. 
+
+3. Copy the link that appears below the button.
+
+4. In your git command line, type:
+
+'''git clone https://github.com/jeanshanchik/KVKRepo.git```
+
+Replacing my link above, of course, with the link you've copied.
+
+5. 
