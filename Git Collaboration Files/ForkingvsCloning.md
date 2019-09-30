@@ -61,3 +61,5 @@ For example, if you wanted to make changes to an existing repository, you would 
 6. Once the clone has been made, you can go ahead and do ```cd KVKRepo``` replacing my repository name with the one you cloned.
 
 7. Your command line should show which folder you're in, and which repository branch you are on. In this case, it should say **"master"**.
+
+Congratulations, you are now ready to make changes in your clone. When you've made the changes you want, you can push them to the forked repository and then follow-up with a pull request to have them added to the original source code.
