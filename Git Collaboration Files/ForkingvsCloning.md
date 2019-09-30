@@ -42,22 +42,20 @@ For example, if you wanted to make changes to an existing repository, you would 
 
 2. Open your git command line (git bash or your docker terminal), and change directories to where you want to place the clone:
 
-```git cd /c/Users/kelley/IS601```
+  ```git cd /c/Users/kelley/IS601```
 
-```pwd```
+3. Then, to ensure you are in the right directory, use ```pwd```.
 
-This is to ensure you are in the correct folder before cloning.
-
-1. Navigate to the original repository whose code you want to work on, just as we did when we forked it.
+4. Navigate to the original repository whose code you want to work on, just as we did when we forked it.
 
 2. Look for the green button all the way to the right that says **"Clone or download"** and click. 
 
 3. Copy the link that appears below the button.
 
-4. In your git command line, type:
+5. In your git command line, type and hit enter:
 
-'''git clone https://github.com/jeanshanchik/KVKRepo.git```
+  ```git clone https://github.com/jeanshanchik/KVKRepo.git```
 
-Replacing my link above, of course, with the link you've copied.
+  Replacing my link above, of course, with the link you've copied.
 
-5. 
+6. 
