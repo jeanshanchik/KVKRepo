@@ -11,10 +11,11 @@ git clone "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
 ## Steps to follow while cloning a Repository
 -  On github navigate to the main page of the repository
 
+<img src="Screenshots/main.png" width="601" height="300">
 
 -  Under the repository name click on clone or download
  
-
+ <img src="Screenshots/clone.png">
  
 - There are two options to clone:
 
@@ -28,6 +29,7 @@ git clone "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
 
 -  Type git clone and paste the URL that you copied
 
+<img src="Screenshots/gitbash.png">
 
 ```
  git clone https://github.com/vishwa742/git-tutorial.git
@@ -36,4 +38,6 @@ git clone "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
 
 -  Press enter and the repository will be cloned.
    
+   
+
    
