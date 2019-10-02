@@ -2,7 +2,7 @@
 ## Make Directory
 
 ### What is it?
-**mkdir** - Stands for Make Directory. It is used to create new directories. 
+**mkdir** - Stands for Make Directory. This command  is used to create new directories. 
 ### Why do you do it?
 A directory, also called a folder can be used as a container of files and other directories.
 ### How do you do it?
