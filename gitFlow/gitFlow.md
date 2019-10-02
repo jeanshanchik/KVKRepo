@@ -18,7 +18,7 @@ The **Master branch** stores official release history
 
 The **Develop branch** serves as an integration branch of features for developers to work on.
 
-We will create a develop branch from the master branch and this develop branch, is the branch in which the team will work on.
+We will create a Develop branch from the Master branch and this Develop branch, is the branch in which the team will work on.
 
 <img src="Screenshots/gitFlow.png" width="300">
 
