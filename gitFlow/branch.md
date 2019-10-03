@@ -14,13 +14,13 @@ git branch "branch name"
 
 We want to create a new branch called `newImage` 
 
-<img src="Screensjots/branch.jpg">
+<img src="Screenshots/branch.png">
 
 we use the command 
 ```
 git branch newImage 
 ```
 
-<img src="Screenshots/branch2.jpg">
+<img src="Screenshots/branch2.png">
 
 A new branch called newImage has been created. 
