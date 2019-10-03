@@ -14,7 +14,7 @@ git branch "branch name"
 
 We want to create a new branch called `newImage` 
 
-<img src="Screensjots/branch.png">
+<img src="Screenshots/branch.png">
 
 we use the command 
 ```
