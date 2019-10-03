@@ -1,7 +1,7 @@
 # Learning Git
 ## Commit 
 
-A commit in a git repository records all the changes in the repository. 
+A commit in a git repository records all the changes in the repository. A Git commit is a snapshot of the hierarchy and the contents of the files in a Git repository.
 
 #### Three main commits
 
