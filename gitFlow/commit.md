@@ -17,6 +17,6 @@ We have added some text to a file called commit.md on the local repository. Befo
 <img src="Screenshots/commit1.png">
 
 ```
-git commit -m "Added text to commit.md File"
+git commit -m "Updated text on commit.md File"
 ```
 <img src="Screenshots/commit2.png">
