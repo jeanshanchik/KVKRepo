@@ -8,3 +8,4 @@ Git status command is used in Git to know the status of the working tree. It sho
 ```
 git status
 ```
+<img src="Screenshots/status.png">
