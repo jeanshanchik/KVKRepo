@@ -12,9 +12,9 @@ A commit in a git repository records all the changes in the repository. A Git co
 
 ### Example
 
-We have created a file called commit.md on the local repository. Before we push this to github, we will have to make a commit explaining the changes made 
-
-We want to display the information that we have added a file called commit.
+We have added some text to a file called commit.md on the local repository. Before we push this to github, we will have to make a commit explaining the changes made 
 
 
-git commit -m "Added File for commit"
+```
+git commit -m "Added text to commit.md File"
+```
