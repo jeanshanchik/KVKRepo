@@ -14,7 +14,7 @@ A commit in a git repository records all the changes in the repository. A Git co
 
 We have added some text to a file called commit.md on the local repository. Before we push this to github, we will have to make a commit explaining the changes made 
 
-<img src="Screenshots/commit.png">
+<img src="Screenshots/commit1.png">
 
 ```
 git commit -m "Added text to commit.md File"
