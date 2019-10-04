@@ -20,3 +20,5 @@ We have added some text to a file called commit.md on the local repository. Befo
 git commit -m "Updated text on commit.md File"
 ```
 <img src="Screenshots/commit2.png">
+
+As we can see a commit that says "Updated text on commit.md File" is available. This way commits help track the changes and progress made in the project.
