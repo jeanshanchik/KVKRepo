@@ -21,4 +21,4 @@ git checkout Text
 ```
 <img src="Screenshots/checkout.PNG">
 
-As we can see, now the branch `Text is selected.
+As we can see, now the branch `Text` is selected.
