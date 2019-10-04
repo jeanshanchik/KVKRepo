@@ -14,5 +14,6 @@ Here, we push the specified branch to `<remote>` along with all of the necessary
 ```
 git push origin master
 ```
+<img src="Screenshots/push.png">
 
 He we are pushing all the changes from the local repository to the master branch in github. 
