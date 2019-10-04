@@ -15,12 +15,12 @@ git merge branch1
 
 We have 2 commits, C3 and C4. C3 contains the branch `sub` and C4 contains the branch `main`. We wish to merge these commits so that there will be one commit which contains the feature of both `sub` and `main`
 
-<img src="Screenshots/merge1.PNG">
+<img src="Screenshots/merge1.PNG" width="400">
 
 The branch `main` is selected (denoted by the * symbol)
 
 We use the command: git merge `sub`. 
 
-<img src="Screenshots/merge2.PNG">
+<img src="Screenshots/merge2.PNG" width="400">
 
 This will merge the branch `sub` into the branch `main`. A new commit, C5 is created and this contains the contents of both `sub` branch and `main` branch.
