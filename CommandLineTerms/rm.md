@@ -8,3 +8,9 @@ One would use the *rm* command to remove any file or directory that was either m
 One would just type in the *rm* command followed by the name of a single or multiple files. See image and syntax used below. 
 ### syntax and image
 ![Remove Example](https://github.com/enforcer20/KVKRepo/blob/master/VI_image/rmimage.png)
+
+
+### Sources
+
+1. [Source #1](https://www.computerhope.com/unix/urm.htm)
+2. [Source #2](https://www.geeksforgeeks.org/rm-command-linux-examples/)

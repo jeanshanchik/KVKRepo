@@ -8,3 +8,9 @@ One would use the *mv* command to move a file into a directory. It can also be u
 Similar to a *cp* command, the *mv* command can be passed followed by the name of the original file and then the new name for the file. In the following image below, you will see how test1.txt is renamed to test3.txt and then moved into a new directory. 
 ### syntax and image
 ![Move Example](https://github.com/enforcer20/KVKRepo/blob/master/VI_image/mv%20image.png)
+
+
+### Sources
+
+1. [Source #1](https://shapeshed.com/unix-mv/)
+2. [Source #2](https://www.howtoforge.com/linux-mv-command/)

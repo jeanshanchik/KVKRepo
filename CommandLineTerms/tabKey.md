@@ -16,3 +16,8 @@ Once the above has been typed, instead of pressing the *Enter* key, press the ta
 ![Tab image with the first letter of Directory](https://github.com/enforcer20/KVKRepo/blob/master/VI_image/tabimg1.png)
 
 ![Tab image with the auto completed directory name](https://github.com/enforcer20/KVKRepo/blob/master/VI_image/tabimg2.png)  
+
+
+### Sources
+
+1. [Source #1](https://www.howtogeek.com/195207/use-tab-completion-to-type-commands-faster-on-any-operating-system/)
