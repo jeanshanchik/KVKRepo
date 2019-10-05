@@ -15,7 +15,11 @@ This command allows you to create a new connection to a remote repository. After
 
 By default, the git remote command will list previously stored remote connections to other repositories. This will produce single line output that lists the names of "bookmark" name of remote repos.
 
+<img src="Screenshots/remote.png">
+
 Invoking git remote with the -v option will print the list of bookmarked repository names and additionally, the corresponding repository URL. The -v option stands for "verbose"
+
+<img src="Screenshots/remote2.png">
 
 ## Remove 
 
