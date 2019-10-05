@@ -22,3 +22,7 @@ git commit -m "Updated text on commit.md File"
 <img src="Screenshots/commit2.png">
 
 As we can see a commit that says "Updated text on commit.md File" is available. This way commits help track the changes and progress made in the project.
+
+## Source
+
+1.  [Commit](https://www.git-tower.com/learn/git/commands/git-commit)
