@@ -7,4 +7,4 @@ One would use this command if they were deep within sub directories and wanted t
 ##How do you do it?
 One can get to the home directory by using the *cd ~*, *cd $HOME* or the *cd ~/* command. Please see below an example of the syntax and image.
 ### Syntax and Image
-![Home Directory Example](VI_images/HomeDirectoryImage.png)
+![Home Directory Example](https://github.com/enforcer20/KVKRepo/blob/master/VI_images/HistoryImage.png)
