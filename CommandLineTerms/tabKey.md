@@ -4,7 +4,7 @@
 The tab key allows the user to autocomplete the names of directories and files while in the command line.
 ### Why do you do it?
 One would use the *tab* key to autocomplete names when trying to change directories for faster traversal to the desired destination.
-###How do you do it?
+### How do you do it?
 Generally, a user would type the following.
 
 **cd** *(the first letter of the file or directory)*
