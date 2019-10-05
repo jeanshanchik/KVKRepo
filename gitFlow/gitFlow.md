@@ -65,3 +65,7 @@ Hot fixes are minor fixes such as spellings or labels that need to be changed. T
 [Status](status.md)
 
 [Master Branch](masterbranch.md)
+
+## Source
+
+1. [Into to gitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
