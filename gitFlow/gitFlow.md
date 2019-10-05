@@ -44,7 +44,7 @@ Hot fixes are minor fixes such as spellings or labels that need to be changed. T
 
 [Repository](repository.md)
 
-[Clone](clone1.md)
+[Clone](clone.md)
 
 [Fork](fork.md)
 
