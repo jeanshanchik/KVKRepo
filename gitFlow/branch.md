@@ -24,3 +24,7 @@ git branch newImage
 <img src="Screenshots/branch2.png">
 
 A new branch called newImage has been created. 
+
+## Source:
+
+1. [Learn Branching](https://learngitbranching.js.org/)
