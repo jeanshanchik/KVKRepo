@@ -30,3 +30,6 @@ This can also be done by using : RM `<NAME>`
 This command modifies the ./.git/config and removes the remote named `<NAME>`. All remote-tracking branches and configuration settings for the remote are removed.
 
 
+## Source
+
+1.  [Git Remote](https://www.atlassian.com/git/tutorials/syncing)
