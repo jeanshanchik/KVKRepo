@@ -60,7 +60,7 @@ Hot fixes are minor fixes such as spellings or labels that need to be changed. T
 
 [Pull](pull.md)
 
-Remote Add / Remove / Show
+[Remote](remote.md)
 
 [Status](status.md)
 
