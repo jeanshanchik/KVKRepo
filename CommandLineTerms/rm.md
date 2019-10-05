@@ -7,4 +7,4 @@ One would use the *rm* command to remove any file or directory that was either m
 ### How do you do it?
 One would just type in the *rm* command followed by the name of a single or multiple files. See image and syntax used below. 
 ### syntax and image
-![Remove Example](/Users/karanwalanj/Desktop/miniprojectimages/rmimage.png)
+![Remove Example](https://github.com/enforcer20/KVKRepo/blob/master/VI_image/rmimage.png)

@@ -13,6 +13,6 @@ Once the above has been typed, instead of pressing the *Enter* key, press the ta
 
 ### syntax and image
 
-![Tab image with the first letter of Directory](/Users/karanwalanj/Desktop/miniprojectimages/tabimg1.png)
+![Tab image with the first letter of Directory](https://github.com/enforcer20/KVKRepo/blob/master/VI_image/tabimg1.png)
 
-![Tab image with the auto completed directory name](/Users/karanwalanj/Desktop/miniprojectimages/tabimg2.png)  
+![Tab image with the auto completed directory name](https://github.com/enforcer20/KVKRepo/blob/master/VI_image/tabimg2.png)  
