@@ -49,7 +49,7 @@ Congratulations, you're now able to create a branch and do a simple merge. There
 
 ## Merge Conflicts
 
-What causes a merge conflict? Something as simple as a person deleting a file you're working on, or when changes are made to a line of code that you are currently working on. Essentially, a conflict arises when Git has competing commits and needs someone's input to determine which commit to incorporate into the final merge.
+What causes a merge conflict? When faced with one, it is best to understand what actually happened. For example, did someone delete a file you're working on? Or did someone modify a line of code that you are currently working on? Essentially, a conflict arises when Git has competing commits and needs someone's input to determine which commit to incorporate into the final merge.
 
 You can resolve a merge conflict on GitHub itself only if it is caused by competing line changes. All other merge conflicts must be resolved locally on the command line.
 
@@ -70,4 +70,26 @@ On GitHub, the steps to complete a merge conflict are as follows:
 6. You may need to commit this to a branch, so when prompted, click **I understand, update YOUR_BRANCH**.
 
 
+### Steps - Command Line
 
+The steps below are for more complext merge conflicts that cannot be done on the GitHub UI.
+
+1. If there's a conflict when you're pulling a branch, you may get an error message like so:
+
+```Auto-merging README.md```
+```CONFLICT (content): Merge conflict in README.md```
+```Automatic merge failed; fix conflicts and then commit the result.```
+
+2. You can navigate to the file it is referring to, in this case it is the README.md file. 
+
+3. When you open the file, you will see an indicator of where the conflict is occurring in the code.
+
+```<<<<<<< HEAD```
+```The line you created.```
+```=======```
+```The line your friend created.```
+```>>>>>>> 031389f2cd2acde08e32f0beb084b2f7c3257fff```
+
+4. You can edit the lines between ```<<<<<<<``` and ```>>>>>>>``` to make it what you want. 
+
+5. Once you are finished, you can do your ```git add```, ```git commit```, and ```git push``` commands.
