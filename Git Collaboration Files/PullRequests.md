@@ -22,7 +22,7 @@ Let's say you're ready to make changes after you've done your forking and clonin
 7. Finally, you can click **"Create Pull Request"** once your request is ready for review. It will then get sent to the owner of the repository and they will either accept or reject your request.
 
 
-
+_Cool Tip: Pull requests have their own discussion forums, so that collaborators can talk about the changes if necessary and align the team._
 
 **Reference**
 
