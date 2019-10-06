@@ -101,4 +101,5 @@ The line your friend created.
 
 **Reference**
 [About Merge Conflicts](https://help.github.com/en/articles/about-merge-conflicts)
+
 [Merge Conflicts on GitHub](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github)
