@@ -5,6 +5,8 @@
 
 Let's say you want to add a feature to the original repository, or fix a bug. You can create a branch to work on your feature/bug without ever disturbing the master branch. Because it is so simple to create one, it is probably a good idea to do it if you are working on a large project.
 
+**Branch definition**: A branch is used to isolate your work without affecting the master branch of the project. Every repository has a default master branch, and others can be created. You then merge your branch into the master by using a pull request.
+
 If you want to create a branch while in the command line, follow these steps:
 
 ### Steps
