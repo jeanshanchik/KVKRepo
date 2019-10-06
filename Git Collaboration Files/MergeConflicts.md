@@ -51,6 +51,8 @@ Congratulations, you're now able to create a branch and do a simple merge. There
 
 ## Merge Conflicts
 
+**Merge:** If you wish to know more about merge basics, please follow this link: [Merges](https://github.com/enforcer20/KVKRepo/blob/master/gitFlow/merge.md) 
+
 What causes a merge conflict? When faced with one, it is best to understand what actually happened. For example, did someone delete a file you're working on? Or did someone modify a line of code that you are currently working on? Essentially, a conflict arises when Git has competing commits and needs someone's input to determine which commit to incorporate into the final merge.
 
 You can resolve a merge conflict on GitHub itself only if it is caused by competing line changes. All other merge conflicts must be resolved locally on the command line.
