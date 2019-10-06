@@ -76,19 +76,23 @@ The steps below are for more complext merge conflicts that cannot be done on the
 
 1. If there's a conflict when you're pulling a branch, you may get an error message like so:
 
-```Auto-merging README.md```
-```CONFLICT (content): Merge conflict in README.md```
-```Automatic merge failed; fix conflicts and then commit the result.```
+```
+Auto-merging README.md
+CONFLICT (content): Merge conflict in README.md
+Automatic merge failed; fix conflicts and then commit the result.
+```
 
 2. You can navigate to the file it is referring to, in this case it is the README.md file. 
 
 3. When you open the file, you will see an indicator of where the conflict is occurring in the code.
 
-```<<<<<<< HEAD```
-```The line you created.```
-```=======```
-```The line your friend created.```
-```>>>>>>> 031389f2cd2acde08e32f0beb084b2f7c3257fff```
+```
+<<<<<<< HEAD
+The line you created.
+=======
+The line your friend created.
+>>>>>>> 031389f2cd2acde08e32f0beb084b2f7c3257fff
+```
 
 4. You can edit the lines between ```<<<<<<<``` and ```>>>>>>>``` to make it what you want. 
 
