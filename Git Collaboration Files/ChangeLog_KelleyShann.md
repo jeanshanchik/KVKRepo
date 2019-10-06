@@ -27,3 +27,5 @@ All notable changes to **Git Collaboration Files** will be documented in this fi
 8. Added Feature to **AddingCollaborator.md**
 9. Added Task (photo) to **ForkingvsCloning.md**
 10. Task: Changed text to links in **CollaborationOverview.md**.
+11. Added Feature to **ForkingvsCloning.md**
+12. Added Feature to **PullRequests.md**
