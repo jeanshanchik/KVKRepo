@@ -2,7 +2,7 @@
 
 What is a pull request? Let's suppose you've just forked a repository and you've gone ahead and added a feature or made some changes. If you need a refresher on forking, take a look [here](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/ForkingvsCloning.md). You now want those changes to be made to the original repository. A pull request is simply an ask to accept your changes to the original repository.
 
-_Tip: A pull and a pull request are two different commands. A pull is a combination of a fetch and a merge, and a pull request is a an ask to accept YOUR changes.
+_Tip_: A pull and a pull request are two different commands. A pull is a combination of a fetch and a merge, and a pull request is a an ask to accept YOUR changes.
 
 ### Steps
 
