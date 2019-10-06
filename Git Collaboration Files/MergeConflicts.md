@@ -39,12 +39,11 @@ _Merging your new feature to the master branch_
 
 6. If you are done with the branch and would like to delete it:
 
-```$ git branch -d new_feature
+```$ git branch -d new_feature```
 
 7. Keep in mind, if you've already pushed the branch to GitHub, it will still exist there even after you perform the above command. So, you'll have to perform the following command to delete it from GitHub:
 
 ```$ git push origin --delete new_feature```
-
 
 Congratulations, you're now able to create a branch and do a simple merge. There will be times, however, you will run into merge conflicts. This is especially prevalent the more complex the projects become. 
 
@@ -58,4 +57,8 @@ On GitHub, the steps to complete a merge conflict are as follows:
 
 ### Steps
 
-1. Navigate to your repository and click 
+1. Navigate to your repository and click on **Pull Requests**
+
+2. Once you are in **Pull Requests**, look for the pull request that has a merge conflict and click **Resolve Conflicts**.
+
+3. 
