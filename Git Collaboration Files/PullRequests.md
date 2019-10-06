@@ -2,9 +2,10 @@
 
 What is a pull request? Let's suppose you've just forked a repository and you've gone ahead and added a feature or made some changes. If you need a refresher on forking, take a look [here](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/ForkingvsCloning.md). You now want those changes to be made to the original repository. A pull request is simply an ask to accept your changes to the original repository.
 
-So, you've committed your changes, and you've pushed them to your fork. To create a pull request:
 
 ### Steps
+
+Let's say you're ready to make changes after you've done your forking and cloning, and you're ready to submit a pull request:
 
 1. Navigate to the original repository that you created your fork from.
 
