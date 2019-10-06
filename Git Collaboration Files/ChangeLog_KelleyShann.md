@@ -25,3 +25,4 @@ All notable changes to **Git Collaboration Files** will be documented in this fi
 6. Added changelog file template in folder.
 7. Commited changes to fork ```jeanshanchik/KVKRepo```.
 8. Added Feature to **AddingCollaborator.md**
+9. Added Task (photo) to **ForkingvsCloning.md**
