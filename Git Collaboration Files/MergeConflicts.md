@@ -97,3 +97,8 @@ The line your friend created.
 4. You can edit the lines between ```<<<<<<<``` and ```>>>>>>>``` to make it what you want. 
 
 5. Once you are finished, you can do your ```git add```, ```git commit```, and ```git push``` commands.
+
+
+**Reference**
+[About Merge Conflicts](https://help.github.com/en/articles/about-merge-conflicts)
+[Merge Conflicts on GitHub](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github)
