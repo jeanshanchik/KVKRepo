@@ -104,3 +104,5 @@ The line your friend created.
 [About Merge Conflicts](https://help.github.com/en/articles/about-merge-conflicts)
 
 [Merge Conflicts on GitHub](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github)
+
+[Branching and Merging](https://kbroman.org/github_tutorial/pages/branching.html)
