@@ -2,7 +2,9 @@
 
 In order to add a collaborator to a project, you must first have your repository created. If you have not yet created a repository, [this page](https://github.com/enforcer20/KVKRepo/blob/master/gitFlow/repository.md) will help you set one up.
 
-**What is a collaborator?** A contributor is someone from the outside not on the core development team of the project that wants to contribute some changes to a project. [Reference](https://github.com/CoolProp/CoolProp/wiki/Contributors-vs-Collaborators)
+**What is a collaborator?** A collaborator is a person with read and write access to a repository who has been invited to contribute by the repository owner. [Reference](https://help.github.com/en/articles/github-glossary)
+
+**What is a contributor?** A contributor is someone who has contributed to a project by having a pull request merged but does not have collaborator access. [Reference](https://help.github.com/en/articles/github-glossary)
 
 
 ## Steps:
