@@ -8,4 +8,4 @@ The Git Collaboration Overview folder houses tutorials on how to use Github and 
 - [Forking vs. Cloning](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/ForkingvsCloning.md)
 - [Pull Requests](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/PullRequests.md)
 - [Merges, Branches, & Merge Conflicts](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/MergeConflicts.md)
-
+- [ChangeLog](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/ChangeLog_KelleyShann.md)
