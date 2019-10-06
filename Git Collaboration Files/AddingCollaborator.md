@@ -2,6 +2,8 @@
 
 In order to add a collaborator to a project, you must first have your repository created. If you have not yet created a repository, [this page](https://github.com/enforcer20/KVKRepo/blob/master/gitFlow/repository.md) will help you set one up.
 
+**What is a collaborator?** A contributor is someone from the outside not on the core development team of the project that wants to contribute some changes to a project. [Reference](https://github.com/CoolProp/CoolProp/wiki/Contributors-vs-Collaborators)
+
 
 ## Steps:
 
