@@ -61,4 +61,13 @@ On GitHub, the steps to complete a merge conflict are as follows:
 
 2. Once you are in **Pull Requests**, look for the pull request that has a merge conflict and click **Resolve Conflicts**.
 
-3. 
+3. You will then be able to decide which changes to keep. You can keep just your own branch's changes, the other branch's changes, or you can make an entirely new change which incorporates changes from both of the branches. You must delete the conflict markers ```<<<<<<<```, ```=======```, ```>>>>>>>``` and make your changes you want to be in the final merge.
+
+4. Once you've completed all your changes and resolved the conflicts, you can go ahead and click **Mark as Resolved**. 
+
+5. You can repeat these steps for all files in which you have conflicts. Once they are completed, you can click **Commit merge**, which will merge the entire base branch into the head branch.
+
+6. You may need to commit this to a branch, so when prompted, click **I understand, update YOUR_BRANCH**.
+
+
+
