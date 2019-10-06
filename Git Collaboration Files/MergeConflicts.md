@@ -1,4 +1,4 @@
-### Branching, Merging, and Merge Conflicts
+# Branching, Merging, and Merge Conflicts
 
 
 ## Branching & Merging
