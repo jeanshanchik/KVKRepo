@@ -22,7 +22,7 @@ Some popular build automation tools include **Jenkins**, **CircleCI**, and **Tra
 Automated testing checks if the software is functioning appropriately and meeting requirements before it is released into production.
 This is a part of CI that occurs within build automation by means creating a script to test it automatically. Automated testing tools produce reports of the outcomes of the tests and reconciles it against earlier test runs.
 
-There are open-source automated testing softwares that are called Selenium, Robotium, and Cypress.
+There are open-source automated testing softwares that are called **Selenium**, **Robotium**, and **Cypress**.
 
 
 ### 4. **Continuous Delivery**
