@@ -103,6 +103,8 @@ Git is easy to configure. Developers can set up their system to deploy the most 
 
 # Docker's contribution to helping a company improve productivity and competitiveness
 
+Author: Vishwanath Ezhil
+
 Docker is a popular open-source project based on Linux containers. Docker is basically a container engine which uses the Linux Kernel features like namespaces and control groups to create containers on top of an operating system and automates application deployment on the container.
 
 ## What is a linux container
