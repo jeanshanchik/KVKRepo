@@ -27,6 +27,12 @@ And underneath it, it says:
 
 Congratulations! You've just forked a repository and can now start making changes to it. 
 
+## What if you're the owner of the repository?
+
+If you are the owner of the repository, you will not be able to fork it. Only other people can. If you hover over the **Fork** button, you will see this:
+
+![Fork](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/images/forkingexample.png)
+
 
 # Cloning Explained
 

@@ -34,3 +34,5 @@ All notable changes to **Git Collaboration Files** will be documented in this fi
 15. Added Hot Fix to **PullRequests.md**
 16. Added Feature to **PullRequests.md**
 17. Added Feature to **Collaboration Overview.md**
+18. Added Feature to **ForkingvsCloning.md**
+19. Added Feature to **MergeConflicts.md**
